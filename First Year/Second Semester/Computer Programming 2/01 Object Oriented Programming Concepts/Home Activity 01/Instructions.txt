@@ -1,0 +1,9 @@
+Groupings:
+
+1. create a program that will let the User at least input 3 data or information.
+
+2. from the user input, choose one data that will convert its data types.
+
+3. the program has to display the result from a computation.
+
+4. Explain your code when the instructor calls your group.
